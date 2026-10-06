@@ -10,3 +10,6 @@ Evaluación correspondiente a la T2 del curso Lenguaje de Programación II.
 
 Control de cambios
 Se realizan modificaciones simultaneas para pruebas del area de staging y comandos de restauracion.
+
+Gestión de ramas
+Trabajando desde la rama feature-Pisfil para la creacion de la clase ControlVersion_Pisfil.java.
